@@ -2,7 +2,7 @@
 
 To install necessary packages.
 
-## npm run dev
+## npm start
 
 To run app.
 
